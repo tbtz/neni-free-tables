@@ -14,5 +14,6 @@
     "start": "node neni-free-tables.js"
   },
   "author": "tbtz",
+  "repository": "https://github.com/tbtz/neni-free-tables",
   "license": "ISC"
 }
